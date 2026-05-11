@@ -61,6 +61,9 @@
 ### Emails
 - [useSend](https://usesend.com/) - Open source email platform. Pay only for what you send. Send up to 3000 free emails per month.
 
+### Search
+- [typesense](https://typesense.org/) - an open source, typo tolerant search engine, optimized for instant sub-50ms searches. 
+- [Pagefind](https://pagefind.app/) - a fully **static search library** that aims to perform well on large sites
 
 -------
 
@@ -70,3 +73,4 @@
 - [Cloudflare Pages](https://pages.cloudflare.com/) – JAMstack platform for fast, secure frontend deployment with global CDN.
 - [GitHub Pages](https://pages.github.com/) – Static site hosting directly from a GitHub repository.
 - [surge](https://surge.sh/) - Static web publishing for Front-End Developers
+- [pgs.sh](https://pico.sh/pgs) - Deploy static sites with a single command. No passwords/config/CI-setup. Just your SSH key and `rsync`.
